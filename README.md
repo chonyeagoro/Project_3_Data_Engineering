@@ -22,8 +22,13 @@ Travel agencies and airlines can leverage the dataset to understand customer pre
 # Sentiment Analysis:
 Natural Language Processing (NLP) techniques can be applied to user reviews to extract sentiment and gain deeper insights into passenger emotions and experiences.
 # Ethical Considerations
-It's important to handle personal and sensitive information with care. Ensure that all data is anonymized and aggregated to protect the privacy of individuals. Obtain necessary consent and comply with data protection regulations when collecting and using customer feedback.
+It's important to handle personal and sensitive information with care. Ensure that all data is anonymized and aggregated to protect the privacy of individuals. 
 The Airlines Reviews and Ratings dataset offers a unique perspective on air travel experiences, empowering airlines and researchers to make data-driven decisions and enhance the overall travel experience for passengers worldwide.
+
+# Sources
+https://www.kaggle.com/datasets/anandshaw2001/airlines-reviews-and-rating
+
+https://www.kaggle.com/datasets/juhibhojani/airline-reviews
 
  
 
