@@ -21,8 +21,11 @@ The datasets are also useful for researchers and analysts who want to study cust
 
 # Dataset Structure and Columns
 •	Aircraft Type: Information about the type of aircraft used for the flight, such as Boeing 777, Airbus A320, etc.
+
 •	User Reviews: Detailed textual feedback provided by passengers, covering their overall experience, specific service aspects, and suggestions for improvement.
+
 •	Service Ratings: Ratings given by passengers for various service categories, such as cabin staff service, food and beverages, seat comfort, value for money, and more.
+
 # Potential Use Cases
 # Customer Satisfaction Analysis:
 Airlines can analyze passenger feedback to identify areas of excellence and areas needing improvement. This data can inform strategic decisions to enhance customer satisfaction and loyalty.
