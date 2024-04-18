@@ -10,9 +10,13 @@ This dataset is also useful for researchers and analysts who want to study custo
 # Dataset Overview
 
 •	Purpose: Airlines and travel companies can use the dataset to analyze passenger satisfaction and improve their services. It's also valuable for predictive modeling and customer satisfaction research.
+
 •	Data Sources: The dataset is typically compiled from Kaggle
+
 •	Data Format: The dataset is structured as a tabular CSV file with columns representing aircraft types, user reviews, service ratings, value for money and other relevant information.
+
 •	Data Size: The dataset contains thousands of reviews and ratings from passengers across different airlines, ensuring a diverse representation of experiences.
+
 # Dataset Structure and Columns
 •	Aircraft Type: Information about the type of aircraft used for the flight, such as Boeing 777, Airbus A320, etc.
 •	User Reviews: Detailed textual feedback provided by passengers, covering their overall experience, specific service aspects, and suggestions for improvement.
