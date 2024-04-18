@@ -39,7 +39,9 @@ Travel agencies and airlines can leverage the dataset to understand customer pre
 Natural Language Processing (NLP) techniques can be applied to user reviews to extract sentiment and gain deeper insights into passenger emotions and experiences.
 # Ethical Considerations
 1.We made sure that we handled personal and sensitive information with care by ensuring that we did not use the column with the passengers names but still managed to execute the project effectively.
+
 2. We also made sure to  acknowledge the sources from which the data was obtained and also that the source was credible.
+
 3. We made sure the data was complete and accurate by taking the necessary steps to clean the data, e.g, remove duplicates and correct any errors.
 
 
